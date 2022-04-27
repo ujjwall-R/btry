@@ -1,0 +1,115 @@
+#backimage {
+  width: 100%;
+  opacity: 70%;
+  position: relative;
+  top: 50px;
+}
+
+#backimage {
+  opacity: 80%;
+}
+
+.headerclass {
+  position: relative;
+  top: -391px;
+}
+
+nav {
+  text-align: center;
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  margin-top: -10px;
+  align-items: center;
+  position: relative;
+  top: -9px;
+  left: -2px;
+}
+
+.menu {
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-shadow: 2px 2px black;
+  text-decoration: none;
+  background: transparent;
+  font-size: 80%;
+}
+
+h1 {
+  margin-left: 8%;
+  font-size: 300%;
+}
+
+h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  margin-left: 8%;
+  margin-top: -3%;
+  font-size: 120%;
+  font-weight: 400;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+
+#midget {
+  color: white;
+  font-size: 120%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-width: 1px;
+  text-decoration: none;
+  margin-left: 8%;
+  background-color: rgb(226, 86, 16);
+  border-radius: 20px;
+}
+
+#Magicarnival_menu {
+  width: 40px;
+  background: transparent;
+  position: relative;
+  top: 10px;
+}
+
+#ff {
+  color: white;
+  text-decoration: none;
+  background: transparent;
+  font-weight: 200;
+}
+
+#getStarted {
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+  border-width: 1px;
+}
+
+.contacts {
+  background: transparent;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  margin-left: 60%;
+  font-size: 20px;
+}
+#form {
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-radius: 3px;
+  border-width: 5px;
+}
+
+.formtext {
+  align-items: left;
+}
